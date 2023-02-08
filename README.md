@@ -7,7 +7,9 @@ Welcome to our real estate portfolio website, designed to showcase properties an
 #What We Used
 
 •HTML5
+
 •CSS3
+
 •JavaScript
 
 #Authors
