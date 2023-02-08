@@ -13,7 +13,9 @@ Welcome to our real estate portfolio website, designed to showcase properties an
 #Authors
 
 •Erick De Carvalho 
+
 •Kenneth Jordan
+
 •Moe Alghazouli
 
 #Screenshots
